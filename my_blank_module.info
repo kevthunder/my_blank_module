@@ -1,0 +1,7 @@
+name = [todo] name
+description = [todo] description
+core = 7.x
+files[] = my_blank_module.module
+files[] = my_blank_module.install
+
+
